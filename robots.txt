@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://poiqs.github.io/BXq/sitemap.BXq.gz
